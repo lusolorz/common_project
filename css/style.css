@@ -27,14 +27,22 @@ p {
 img {
     border: 5px solid #555;
     Padding: 10px,10px,10px,10px;
-    margin: 20px 20px;
+    margin: 20px;
     border-top-right-radius: 30px 
 }
 
 li {
     display: inline-block;
     margin-left: 50px;
+    padding: 10px;
 }
-  
 
+nav {
+    border: 5px solid;
+}
+
+a{
+    text-align: underline;
+    border: solid blue
+}
 
